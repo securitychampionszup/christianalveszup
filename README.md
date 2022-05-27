@@ -1,9 +1,4 @@
-### Hello there, I'm currently working 
-
-<!--
-**christianalveszup/christianalveszup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+### Hey there, grab a cup of coffee and let's interact
 
 - 🔭 I’m currently working on the vehicle's community both as a Tech Leader as well as a Staff Engineer
 - 🌱 I’m currently how to use StackSpot with the initiatives we have on our roadmap
