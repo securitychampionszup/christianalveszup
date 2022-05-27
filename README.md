@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' />
+<img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' />
+
